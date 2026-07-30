@@ -1,0 +1,12 @@
+
+bin/
+obj/
+
+OpenCV-MinGW-Build-OpenCV-4.5.2-x64/
+freeglut-MinGW-3.0.0-1.mp/
+
+*.depend
+*.layout
+*.cbp.local
+
+*.exe
