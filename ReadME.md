@@ -10,11 +10,11 @@ This application correlates high-resolution satellite imagery with a sequence of
 
 ### Orbital View
 
-![Orbital View Demo](./demo 1.gif)
+![Orbital View Demo](./demo%201.gif)
 
 ### Freecam View
 
-![Freecam View Demo](./demo 2.gif)
+![Freecam View Demo](./demo%202.gif)
 
 ---
 
